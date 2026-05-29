@@ -18,7 +18,7 @@ Aqui no GitHub compartilho projeto,estudos e experiências que fazem parte do me
 ## 📫 Contato
 
 - 📧 **E-mail:** lucasdeiror@gmail.com
-- 💼 **LinkedIn:**www.linkedin.com/in/lucas-deiró-rodrigues-b6176137b
+- 💼 **LinkedIn**:www.linkedin.com/in/lucas-deiró-rodrigues-b6176137b
 
 ## 🛠️ Linguagens e Tecnologias
 
