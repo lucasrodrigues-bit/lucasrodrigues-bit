@@ -23,7 +23,7 @@ Aqui no GitHub compartilho projeto,estudos e experiências que fazem parte do me
 ## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,typescript,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,reactm,git,typescript,java,python" />
 </p>
 
 ## 📊 Estatísticas
