@@ -26,6 +26,12 @@ Aqui no GitHub compartilho projeto,estudos e experiências que fazem parte do me
   <img src="https://skillicons.dev/icons?i=html,css,js,git,typescript,java,python" />
 </p>
 
+## 📊 Estatísticas
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lucasrodrigues-bit&theme=tokyonight&starting_year=2025&cache_seconds=3600" />
+</p>
+
+
 <!--
 **lucasrodrigues-bit/lucasrodrigues-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
