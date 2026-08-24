@@ -1,4 +1,4 @@
-<h1 align="center">Lucas Rodrigues</h1>
+<h1 align="center">Lucas Deiró Rodrigues</h1>
 
 📚 Estudante de Ciências da Computação  
 🚀 Desenvolvedor Back-End em formação
