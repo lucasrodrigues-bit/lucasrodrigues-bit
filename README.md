@@ -1,15 +1,14 @@
 <h1 align="center">Lucas Deiró Rodrigues</h1>
 
-📚 Estudante de Ciências da Computação  
-🚀 Desenvolvedor Back-End em formação
+🚀 Desenvolvedor de Software
+📚 Estudante de Ciência da Computação  
 📍 Aracaju-SE
 
 ## 🧠 Sobre mim
-Sou apaixonado em soluções tecnológicas e softwares que impactem na vida das pessoas.Atualmente estou me especializando em Java
-buscando minha primeira oportunidade como estagiário.Tenho experiência em projetos de desenvolvimento front-end com integração
-de API REST utilizando typescript,react,shadcn,tiptap....Tenho também projetos em python,pessoais e disciplinares.
+Admiro muito soluções e inovações tecnológicas e a construção de softwares que impactem na vida das pessoas de maneira positiva.Atualmente estou me especializando em Java com SpringBoot,no qual tenho alguns pequenos projetos pessoais.Tenho experiência em projetos de desenvolvimento front-end com integração
+de API REST utilizando TypeScript, React,com algumas bibliotecas como shadcn e Tiptap e Tailwind CSS.Desenvolvi também projetos e automações pessoais e disciplinares em Python.
 
-Aqui no GitHub compartilho projeto,estudos e experiências que fazem parte do meu aprendizado e evolução nessa área!
+Aqui no GitHub compartilho projeto,estudos e experiências que fazem parte da minha aprendizagem e evolução nessa área!
 
 ## 🎓 Formação
 
