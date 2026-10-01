@@ -25,7 +25,7 @@ Participei do programa de **Residência em Software**, trabalhando em equipe, co
 ## 📂 Projetos
 
 - **[PetManager](https://github.com/lucasrodrigues-bit/PetManager)**: sistema de gestão para petshops (agenda, pets e tutores, serviços, vacinas, estoque, vendas e relatório mensal com exportação em PDF). Next.js, TypeScript, Supabase, shadcn/ui e Tailwind, com deploy na Vercel. Desenvolvido a partir de especificações escritas, com testes unitários e E2E e fluxo de PRs com squash merge.
-- **MarcaSE (projeto acadêmico, Residência de Software I)**: sistema de agendamento e gestão de clínicas com autenticação por perfis (médico, admin, financeiro, secretaria e paciente) e dashboard com gráficos. React, Next.js, TypeScript e Supabase. *(em desenvolvimento)*
+- **MarcaSE (projeto acadêmico, Residência de Software I)**: sistema de agendamento e gestão de clínicas com autenticação por perfis (médico, admin, financeiro, secretaria e paciente) e dashboard com gráficos. React, Next.js, TypeScript e Supabase.
 - **Dashboard de localização (Java puro)**: consulta CEP/IP/cidade e agrega localização, clima, câmbio e feriados consumindo várias APIs REST, com HttpClient, CompletableFuture e arquitetura em camadas.
 - **Sistema de estoque (Java + Clean Architecture)**: CLI de controle de estoque para praticar coleções, generics, streams, exceções, Optional e Records, separando `core`, `infra` e `application`. *(em desenvolvimento)*
 - **DealsBot (Python)**: bot que monitora promoções (Amazon, Shopee e Magalu via RSS), filtra por categoria/desconto, gera mensagens com IA e prepara o envio ao Telegram. Clean Architecture, APScheduler, Supabase e testes.
