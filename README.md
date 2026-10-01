@@ -5,25 +5,44 @@
 📍 Aracaju-SE
 
 ## 🧠 Sobre mim
-Admiro muito soluções e inovações tecnológicas e a construção de softwares que impactem na vida das pessoas de maneira positiva.Atualmente estou me especializando em Java com SpringBoot,no qual tenho alguns pequenos projetos pessoais.Tenho experiência em projetos de desenvolvimento front-end com integração
-de API REST utilizando TypeScript, React,com algumas bibliotecas como shadcn e Tiptap e Tailwind CSS.Desenvolvi também projetos e automações pessoais e disciplinares em Python.
+Gosto de construir softwares que resolvem problemas reais e faz diferença na vida das pessoas. 
+Hoje estou aprofundando **Java e Spring Boot**, estudando fundamentos (coleções, generics, streams, tratamento de exceções) e **Clean Architecture**. Minha base mais sólida é em **TypeScript/JavaScript**, com projetos front-end e full-stack usando React, Next.js, Supabase, Tailwind CSS e shadcn/ui. Também uso **Python** para automações e projetos pessoais.
 
-Aqui no GitHub compartilho projeto,estudos e experiências que fazem parte da minha aprendizagem e evolução nessa área!
+💼Estagiário de Desenvolvimento de Software no Senac Sergipe
 
-## 🎓 Formação
+Participei do programa de **Residência em Software**, trabalhando em equipe, com versionamento, documentação e boas práticas de engenharia. Gosto de usar IA como ferramenta de desenvolvimento, sempre revisando e entendendo o que ela gera.
 
-- 💻 Formando Bacharel em Ciência da Computação
+## 🛠️ Tecnologias
+
+| Área | Tecnologias |
+|---|---|
+| **Linguagens** | TypeScript · JavaScript · Java · Python |
+| **Front-end** | React · Next.js (App Router) · Tailwind CSS · shadcn/ui · Tiptap |
+| **Back-end** | Java · Server Actions · APIs REST |
+| **Banco de dados** | PostgreSQL / Supabase · MySQL |
+| **Ferramentas** | Git/GitHub (branches + PRs) · Vercel · Vitest · Playwright · Cursor |
+
+## 📂 Projetos
+
+- **[PetManager](https://github.com/lucasrodrigues-bit/PetManager)**: sistema de gestão para petshops (agenda, pets e tutores, serviços, vacinas, estoque, vendas e relatório mensal com exportação em PDF). Next.js, TypeScript, Supabase, shadcn/ui e Tailwind, com deploy na Vercel. Desenvolvido a partir de especificações escritas, com testes unitários e E2E e fluxo de PRs com squash merge.
+- **MarcaSE (projeto acadêmico, Residência de Software I)**: sistema de agendamento e gestão de clínicas com autenticação por perfis (médico, admin, financeiro, secretaria e paciente) e dashboard com gráficos. React, Next.js, TypeScript e Supabase. *(em desenvolvimento)*
+- **Dashboard de localização (Java puro)**: consulta CEP/IP/cidade e agrega localização, clima, câmbio e feriados consumindo várias APIs REST, com HttpClient, CompletableFuture e arquitetura em camadas.
+- **Sistema de estoque (Java + Clean Architecture)**: CLI de controle de estoque para praticar coleções, generics, streams, exceções, Optional e Records, separando `core`, `infra` e `application`. *(em desenvolvimento)*
+- **DealsBot (Python)**: bot que monitora promoções (Amazon, Shopee e Magalu via RSS), filtra por categoria/desconto, gera mensagens com IA e prepara o envio ao Telegram. Clean Architecture, APScheduler, Supabase e testes.
+- **Plataforma de ODR (projeto acadêmico, Residência de Software II)**: no time de backend de um software multi-tenant de resolução online de disputas, com Node.js, TypeScript,Fastify,Redis, JWT e integração com IA.
+- *(em desenvolvimento)*
+
+## 🎯 Foco atual
+
+- Java + Spring Boot e Clean Architecture
+- Persistência com JDBC/JPA
+- MySql e PostgreSQL
 
 ## 📫 Contato
 
-- 📧 **E-mail:** lucasdeiror@gmail.com
-- 💼 **LinkedIn**:www.linkedin.com/in/lucas-deiró-rodrigues-b6176137b
+- ✉️ **E-mail:** [lucasdeiror@gmail.com](mailto:lucasdeiror@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/lucas-deiró-rodrigues-b6176137b](https://www.linkedin.com/in/lucas-deiró-rodrigues-b6176137b)
 
-## 🛠️ Linguagens e Tecnologias
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,git,mysql,postgres,nextjs,react,typescript,tailwind,python&theme=light"/>
-</p>
 
 ## 📊 Estatísticas
 <p align="center">
