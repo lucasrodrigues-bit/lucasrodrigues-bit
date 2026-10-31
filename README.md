@@ -102,8 +102,6 @@ Construo software voltado para o mundo real, com foco obsessivo em **estabilidad
   * Implementado com `java.net.http.HttpClient` nativo do JDK, Gson e mapeamento em camadas (DTOs → Domain Models), com suporte a consultas paralelas assíncronas.
 * **[Sistema de Estoque CLI](https://github.com/lucasrodrigues-bit/sistema-de-estoque)** *(Java 25 Puro)*
   * Aplicação de console para fixação rigorosa dos pilares de **Core Java**: *Collections Framework*, Generics, Streams API, Records, Optionals e hierarquia de exceções de domínio customizadas, estruturado sob os preceitos de Clean Architecture (camada `core` 100% isolada).
-* **DealsBot** *(Python)*
-  * Serviço assíncrono para monitoramento contínuo de promoções em e-commerces (RSS/APIs), filtragem por parâmetros de desconto, enriquecimento contextual via LLM e disparo automatizado de alertas via Telegram com APScheduler e Supabase.
 
 ---
 
