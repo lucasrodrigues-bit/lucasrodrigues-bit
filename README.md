@@ -51,7 +51,7 @@ Construo software voltado para o mundo real, com foco obsessivo em **estabilidad
   * **Segurança:** RBAC no servidor com verificação de papéis por requisição, sessão em cookies `httpOnly`, rate limiting e isolamento de schema (`loja`).
   * **Stack:** React 19, Vite, Tailwind v4, Node.js serverless na Vercel e PostgreSQL (Supabase).
 
-* **Nexo — Sistema Operacional** *(Em Desenvolvimento)*
+* **Nexo — Sistema de Gestão** *(Em Desenvolvimento)*
   SaaS multi-tenant focado em eliminar a ociosidade operacional e o capital morto em pequenos comércios (barbearias, varejo e petshops).
   * **Isolamento Rígido:** Multi-tenancy respaldado por políticas de Row Level Security (RLS) no PostgreSQL e RBAC granular.
   * **Tolerância a Falhas Comprovada:** Mutação de caixa e estoque blindada por funções atômicas em PL/pgSQL; viabilidade comprovada com **95 testes pgTAP**, teste de concorrência simultânea (20 vendas para 10 peças sem saldo negativo) e estresse com 300.000 transações.
