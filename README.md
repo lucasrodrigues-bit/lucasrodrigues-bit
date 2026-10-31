@@ -61,10 +61,38 @@ Construo software voltado para o mundo real, com foco obsessivo em **estabilidad
 
 ### 🎓 Experiência Acadêmica & Projetos de Residência
 
-* **MarcaSE (Residência de Software I - UNIT)**: Sistema de agendamento e gestão para clínicas médicas com múltiplos perfis de acesso (médicos, financeiro, recepção, pacientes) e dashboards de métricas. Atuei como **líder técnico do time de front-end** (React, Next.js, TypeScript e Supabase).
-* **Plataforma de ODR (Residência de Software II - UNIT)**: Engenharia de back-end para plataforma multi-tenant de Resolução Online de Disputas (ODR), construída com Node.js, Fastify, TypeScript, cache com Redis, autenticação JWT e orquestração de IA.
-* **Mix-Software**: SaaS de agendamento com regras de integridade cronológica via constraints espaciais no PostgreSQL para prevenção de no-show e dupla reserva em nível de banco de dados.
+* **MarcaSE (Residência de Software I — UNIT)**
+     * **Papel:** Líder Técnico de Front-end (React, Next.js, TypeScript).
+     • O problema:O absenteísmo(faltas).Em clínicas médicas, o agendamento costuma ser descentralizado e caótico: a recepção fica    
+  sobrecarregada com ligações e mensagens de WhatsApp, médicos sofrem com furos na agenda por faltas de pacientes
+  (no-show) ou atrasos em cascata, e o financeiro tem dificuldade de conciliar o que foi de fato atendido.
+  • Nossa Solução: Centralizamos a jornada clínica em uma única plataforma com controle de acesso rigoroso por
+  perfil. O paciente agenda de forma prática, a recepção gerencia a sala de espera sem se perder em
+  planilhas, o médico foca apenas no atendimento e a gestão passa a enxergar em tempo real a taxa de ocupação dos
+  consultórios, o tempo médio de espera e as perdas financeiras por ausências.
+     * **Arquitetura & Engenharia:** Liderança na padronização da arquitetura do client, definindo contratos de
+     dados, design system modular e fluxos protegidos por RBAC (*Role-Based Access Control*) com múltiplos níveis
+     de permissão (médicos, financeiro, recepção e pacientes).
+     * **Entregas-Chave:** Desenvolvimento de dashboards operacionais e financeiros em tempo real (taxas de
+     ocupação, no-show, fluxo de caixa e tempo médio de espera) e interface orientada a acessibilidade e fluxo
+     clínico ágil, reduzindo atritos no agendamento e triagem.
 
+* **Plataforma de ODR — Online Dispute Resolution (Residência de Software II — UNIT)**
+     * **Papel:** Engenheiro de Back-end (Node.js, Fastify, TypeScript, Redis e LLMs).
+     * • O problema: A resolução de conflitos de consumo e pequenas causas judiciais é lenta, burocrática e cara  
+         para todas as partes. Uma disputa simples sobre cobrança indevida ou cancelamento de serviço pode levar meses
+         parada em varas judiciais ou em SACs ineficientes. Além disso, mediadores e advogados gastam horas lendo
+         petições longas e repetitivas apenas para propor acordos que poderiam ser padronizados.
+       • Nossa Solução: Criamos um ambiente digital seguro para mediação de acordos entre empresas e clientes antes
+       que a disputa vire um processo judicial demorado. A plataforma recebe as alegações das duas partes e utiliza
+       rotinas com modelos de linguagem (IA) para ler e resumir os pontos de divergência, sugerindo minutas de acordo
+       prévias para que uma negociação que duraria meses seja resolvida em poucos dias com validade jurídica.  
+     * **Arquitetura & Engenharia:** Back-end de alto *throughput* e baixa latência baseado em *schema-first*
+       (Fastify), com isolamento estrito de dados sob arquitetura multi-tenant para câmaras de mediação e clientes
+       corporativos.
+       * **Infraestrutura & IA:** Autenticação stateless via JWT com rotação de chaves; camada de cache distribuído
+       e controle de concorrência com Redis; e pipeline assíncrono para orquestração de IA voltado à sumarização de
+       petições/disputas, extração de cláusulas e triagem automatizada de acordos.
 ---
 
 ### 🧪 Portfólio de Fundamentos & Core Java
